@@ -1,0 +1,17 @@
+{
+    "root": "../",
+    "files": {
+        "config.inc.php": {
+            "destination": "config.inc.php"
+        },
+        "build.properties": {
+            "destination": "propel/build.properties"
+        },
+        "runtime-conf.xml": {
+            "destination": "propel/runtime-conf.xml"
+        },
+        "buildtime-conf.xml": {
+            "destination": "propel/buildtime-conf.xml"
+        }
+    }
+}
